@@ -4,15 +4,22 @@ body {
 
 #cabecalho {
   top: 0;
+  text-align: center;
+}
+
+#rodape {
+  text-align: center;
 }
 
 .aprendizado {
-  font-weight: bold;
+  font-weight: 600;
   font-style: italic;
 }
 
 .magia {
-  font-family: 'Lucida Sans', serif;
+  font-family: Lucida, serif;
+  font-style: italic;
+  text-align: justify;
 }
 
 .fonte {
@@ -20,11 +27,11 @@ body {
 }
 
 #artigo1 {
-  width: 60%;
+  width: 80%;
   display: inline-block;
 }
 
 #artigo2 {
-  width: 25%;
+  width: 85%;
   display: inline-block;
 }
