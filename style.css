@@ -5,3 +5,26 @@ body {
 #cabecalho {
   top: 0;
 }
+
+.aprendizado {
+  font-weight: bold;
+  font-style: italic;
+}
+
+.magia {
+  font-family: 'Lucida Sans', serif;
+}
+
+.fonte {
+  display: inline-block;
+}
+
+#artigo1 {
+  width: 60%;
+  display: inline-block;
+}
+
+#artigo2 {
+  width: 25%;
+  display: inline-block;
+}
