@@ -2,6 +2,19 @@ body {
   background-color: rgb(253, 251, 251);
 }
 
+p, li {
+  color: rgb(13, 26, 38);
+  font-size: 90%;
+}
+
+p { 
+  line-height: 95%;
+}
+
+li {
+  line-height: 130%;
+}
+
 #cabecalho {
   top: 0;
   position: fixed;
