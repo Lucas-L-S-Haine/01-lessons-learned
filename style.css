@@ -2,7 +2,7 @@ body {
   background-color: rgb(253, 251, 251);
 }
 
-p,li {
+p , li {
   color: rgb(13, 26, 38);
   font-size: 90%;
 }
