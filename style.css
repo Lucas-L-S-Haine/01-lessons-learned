@@ -15,14 +15,28 @@ li {
   line-height: 130%;
 }
 
+nav {
+  display: inline-block;
+}
+
 #cabecalho {
   top: 0;
   position: fixed;
   padding: 0 35% 0;
+  background-color: rgb(253, 251, 251);
 }
 
 #rodape {
   text-align: center;
+}
+
+#foto {
+  text-align: center;
+  margin-top: 6.5%;
+}
+
+#minha_foto {
+  border-radius: 50%;
 }
 
 .aprendizado {
