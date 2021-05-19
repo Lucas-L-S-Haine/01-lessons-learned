@@ -2,12 +2,12 @@ body {
   background-color: rgb(253, 251, 251);
 }
 
-p, li {
+p,li {
   color: rgb(13, 26, 38);
   font-size: 90%;
 }
 
-p { 
+p {
   line-height: 95%;
 }
 
@@ -22,7 +22,7 @@ nav {
 #cabecalho {
   top: 0;
   position: fixed;
-  padding: 0 35% 0;
+  padding: 0 35%;
   background-color: rgb(253, 251, 251);
 }
 
@@ -73,13 +73,13 @@ nav {
 .lado-esquerdo {
   width: 80%;
   display: inline-block;
-  padding: 0 8% 0;
-  margin: 0 1% 0;
+  padding: 0 8%;
+  margin: 0 1%;
 }
 
 .lado-direito {
   width: 85%;
   display: inline-block;
-  padding: 0 8% 0;
-  margin: 0 1% 0;
+  padding: 0 8%;
+  margin: 0 1%;
 }
