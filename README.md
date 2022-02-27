@@ -7,7 +7,7 @@ Para acessar o código de um projeto:
 git checkout <nome-do-projeto>
 ```
 
-## List of Trybe projects:
+## Lista de projetos da Trybe:
 
 - [x] Lessons learned
 - [x] Playground functions
