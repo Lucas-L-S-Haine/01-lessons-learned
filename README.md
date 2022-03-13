@@ -40,6 +40,7 @@ git checkout <nome-do-projeto>
 - [x] Stranger Things Frontend
 - [x] Stranger Things Backend
 - [x] Trybesmith
+- [x] Trybers and Dragons
 
 ## 💯 Projetos concluídos:
 
@@ -74,3 +75,4 @@ git checkout <nome-do-projeto>
 - [ ] Stranger Things Frontend
 - [ ] Stranger Things Backend
 - [ ] Trybesmith
+- [ ] Trybers and Dragons
