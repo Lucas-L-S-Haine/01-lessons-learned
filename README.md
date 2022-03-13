@@ -7,7 +7,7 @@ Para acessar o código de um projeto:
 git checkout <nome-do-projeto>
 ```
 
-## Lista de projetos da Trybe:
+## 📓Projetos arquivados:
 
 - [x] Lessons learned
 - [x] Playground functions
@@ -40,3 +40,37 @@ git checkout <nome-do-projeto>
 - [x] Stranger Things Frontend
 - [x] Stranger Things Backend
 - [x] Trybesmith
+
+## 💯Projetos concluídos:
+
+- [ ] Lessons learned
+- [ ] Playground functions
+- [ ] Pixels art
+- [ ] Todo list
+- [ ] Trybewarts
+- [ ] JS unit tests
+- [ ] Zoo functions
+- [ ] Shopping cart
+- [ ] Jest
+- [ ] Movie cards library
+- [ ] Movie cards library stateful
+- [ ] Movie cards library CRUD
+- [ ] Frontend online store
+- [ ] Trybewallet
+- [ ] Trivia React Redux
+- [ ] Starwars planets search
+- [ ] Recipes app
+- [ ] MySQL all for one
+- [ ] MySQL vocabulary booster
+- [ ] MySQL one for all
+- [ ] Docker todo list
+- [ ] Mongodb dataflights
+- [ ] Mongodb commerce
+- [ ] Mongodb aggregations
+- [ ] Talker manager
+- [ ] Store manager
+- [ ] Cookmaster
+- [x] Blogs API
+- [ ] Stranger Things Frontend
+- [ ] Stranger Things Backend
+- [ ] Trybesmith
