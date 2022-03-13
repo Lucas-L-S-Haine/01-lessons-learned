@@ -7,7 +7,7 @@ Para acessar o código de um projeto:
 git checkout <nome-do-projeto>
 ```
 
-## 📓Projetos arquivados:
+## 📓 Projetos arquivados:
 
 - [x] Lessons learned
 - [x] Playground functions
@@ -41,7 +41,7 @@ git checkout <nome-do-projeto>
 - [x] Stranger Things Backend
 - [x] Trybesmith
 
-## 💯Projetos concluídos:
+## 💯 Projetos concluídos:
 
 - [ ] Lessons learned
 - [ ] Playground functions
