@@ -38,9 +38,9 @@ git checkout <nome-do-projeto>
 - [x] 27. Cookmaster
 - [x] 28. Blogs API
 - [x] 29. Stranger Things Frontend
-- [x] 30. Stranger Things Backend
-- [x] 31. Trybesmith
-- [x] 32. Trybers and Dragons
+- [x] 29. Stranger Things Backend
+- [x] 30. Trybesmith
+- [x] 31. Trybers and Dragons
 
 ## 💯 Projetos concluídos:
 
@@ -73,6 +73,6 @@ git checkout <nome-do-projeto>
 - [ ] 27. Cookmaster
 - [x] 28. Blogs API
 - [ ] 29. Stranger Things Frontend
-- [ ] 30. Stranger Things Backend
-- [ ] 31. Trybesmith
-- [ ] 32. Trybers and Dragons
+- [ ] 29. Stranger Things Backend
+- [ ] 30. Trybesmith
+- [ ] 31. Trybers and Dragons
