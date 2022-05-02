@@ -76,3 +76,38 @@ git checkout <nome-do-projeto>
 - [ ] 29. Stranger Things Backend
 - [ ] 30. Trybesmith
 - [ ] 31. Trybers and Dragons
+
+## 📓 Projetos publicados:
+
+- [ ] 01. Lessons learned
+- [ ] 02. Playground functions
+- [ ] 03. Pixels art
+- [ ] 04. Todo list
+- [ ] 05. Trybewarts
+- [ ] 06. JS unit tests
+- [ ] 07. Zoo functions
+- [ ] 08. Shopping cart
+- [ ] 09. Jest
+- [ ] 10. Movie cards library
+- [ ] 11. Movie cards library stateful
+- [ ] 12. Movie cards library CRUD
+- [ ] 13. Frontend online store
+- [ ] 14. Trybewallet
+- [ ] 15. Trivia React Redux
+- [ ] 16. Starwars planets search
+- [ ] 17. Recipes app
+- [ ] 18. MySQL all for one
+- [ ] 19. MySQL vocabulary booster
+- [ ] 20. MySQL one for all
+- [ ] 21. Docker todo list
+- [ ] 22. Mongodb dataflights
+- [ ] 23. Mongodb commerce
+- [ ] 24. Mongodb aggregations
+- [ ] 25. Talker manager
+- [ ] 26. Store manager
+- [ ] 27. Cookmaster
+- [ ] 28. Blogs API
+- [ ] 29. Stranger Things Frontend
+- [ ] 29. Stranger Things Backend
+- [ ] 30. Trybesmith
+- [ ] 31. Trybers and Dragons
